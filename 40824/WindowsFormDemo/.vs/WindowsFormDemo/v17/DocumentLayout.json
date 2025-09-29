@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|d:\\cntt\\.net-basic\\kt3-templates\\40824\\windowsformdemo\\windowsformdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|solutionrelative:windowsformdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|d:\\cntt\\.net-basic\\kt3-templates\\40824\\windowsformdemo\\windowsformdemo\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|solutionrelative:windowsformdemo\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|d:\\cntt\\.net-basic\\kt3-templates\\40824\\windowsformdemo\\windowsformdemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|solutionrelative:windowsformdemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|d:\\cntt\\.net-basic\\kt3-templates\\40824\\windowsformdemo\\windowsformdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|solutionrelative:windowsformdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|d:\\cntt\\.net-basic\\kt3-templates\\40824\\windowsformdemo\\windowsformdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF1CFBAB-64A4-4C61-9E38-530DD730E179}|WindowsFormDemo\\WindowsFormDemo.csproj|solutionrelative:windowsformdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormDemo\\Form1.Designer.cs",
+              "ToolTip": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormDemo\\Form1.Designer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAUwBABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:39:48.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormDemo\\Form1.cs",
+              "ToolTip": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:44:51.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "WindowsFormDemo\\BookDbContext.cs",
+              "ToolTip": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\BookDbContext.cs",
+              "RelativeToolTip": "WindowsFormDemo\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:12:51.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Book.cs",
+              "RelativeDocumentMoniker": "WindowsFormDemo\\Book.cs",
+              "ToolTip": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Book.cs",
+              "RelativeToolTip": "WindowsFormDemo\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:10:49.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormDemo\\Form1.cs",
+              "ToolTip": "D:\\CNTT\\.NET-basic\\KT3-TEMPLATES\\40824\\WindowsFormDemo\\WindowsFormDemo\\Form1.cs",
+              "RelativeToolTip": "WindowsFormDemo\\Form1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:55:28.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
