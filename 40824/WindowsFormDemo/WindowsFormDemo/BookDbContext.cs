@@ -11,7 +11,7 @@ namespace WindowsFormDemo
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-FPAM6VM\\SQLEXPRESS; Database=QuanLySach; Trusted_Connection=True; TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=; Database=QuanLySach; Trusted_Connection=True; TrustServerCertificate=True");
         }
 
         public DbSet<Book> Books { get; set; }
